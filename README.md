@@ -1,2 +1,3 @@
 # hello-world
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets -- anything your project needs. I'am new to coding, so this is where I will start!
+Hello all, my name is Dillon and I just recently started college for cloud computing! Creating a GitHub account is a requirement for a class project that I'am currently doing. I live in the Midwestern part of the United States and I'am in my late 20s. I love animals, EDM, Apple products and STEM projects. I'am really looking forward to emersing myself in this community.
